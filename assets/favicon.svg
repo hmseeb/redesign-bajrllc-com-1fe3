@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Before and After Junk Removal">
+  <rect width="64" height="64" rx="14" fill="#0b0d10"/>
+  <path d="M14 23h20l5 6h11a2 2 0 0 1 2 2v3H12v-9a2 2 0 0 1 2-2z" fill="#ff6a13"/>
+  <path d="M13 37h38l-3.2 14.2a3 3 0 0 1-2.9 2.3H19.1a3 3 0 0 1-2.9-2.3L13 37z" fill="#ffffff"/>
+  <path d="M24 42v7M32 42v7M40 42v7" stroke="#0b0d10" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 10h10l-5 7z" fill="#ff8c3d"/>
+</svg>
